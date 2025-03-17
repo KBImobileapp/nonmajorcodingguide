@@ -793,10 +793,10 @@ LLM을 활용하여 좋은 코드를 생성하려면 명확하고 구체적인 �
    - 사용자로부터 검색 키워드 입력받기
    - 사용자 입력을 키워드로 하는 과정 보여주기
    - 추출한 정보를 CSV 파일로 저장
-   - 관련 URL : https://www.kbi.or.kr/platformWeb/Train.do?cmd=openPage&pageName=trainCalendar
-   - 화면소스 : 첨부파일 참조
 
 3. 코드 작성 시 주의사항:
+   - 관련 URL : https://www.kbi.or.kr/platformWeb/Train.do?cmd=openPage&pageName=trainCalendar
+   - 화면소스 : 첨부파일 참조
    - 나는 웹 스크래핑 초보자이므로 각 단계에 상세한 주석을 달아주세요
    - 웹사이트 구조 변경에 대응할 수 있도록 유연한 코드 작성
    - 요청 간 시간 간격을 두어 서버에 부담 주지 않기
